@@ -27,7 +27,7 @@ This fork of Bolt.new allows you to choose the LLM that you use for each prompt!
 - ⬜ **HIGH PRIORITY** - Run agents in the backend as opposed to a single model call
 - ⬜ Mobile friendly
 - ⬜ LM Studio Integration
-- ⬜ Together Integration
+- ✅ Together Integration
 - ⬜ Azure Open AI API Integration
 - ⬜ HuggingFace Integration
 - ⬜ Perplexity Integration
